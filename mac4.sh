@@ -17,7 +17,7 @@ brew install python uv portaudio ffmpeg git -q
 
 cd ~
 if [ ! -d "OM1" ]; then
-    git clone https://github.com/openmind/OM1.git
+    git clone https://github.com/justmek121/OM1.git
 fi
 
 cd OM1
